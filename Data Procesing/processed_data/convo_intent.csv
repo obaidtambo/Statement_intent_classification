@@ -1,0 +1,1320 @@
+,text,intent,intent_ovr
+0,yes,yesNode,convo
+1,oh yeah,yesNode,convo
+2,alright,yesNode,convo
+3,absolutely,yesNode,convo
+4,oh absolutely,yesNode,convo
+5,definitely,yesNode,convo
+6,yes i am,yesNode,convo
+7,oh sure i am,yesNode,convo
+8,oh all right i am,yesNode,convo
+9,oh absolutely i am,yesNode,convo
+10,oh definitely i am,yesNode,convo
+11,yes i do,yesNode,convo
+12,oh yeah i do,yesNode,convo
+13,sure i do,yesNode,convo
+14,alright i do,yesNode,convo
+15,oh all right i do,yesNode,convo
+16,oh definitely i do,yesNode,convo
+17,yea i have,yesNode,convo
+18,oh sure i have,yesNode,convo
+19,oh yes i will,yesNode,convo
+20,oh sure i will,yesNode,convo
+21,oh all right i will,yesNode,convo
+22,absolutely i will,yesNode,convo
+23,oh definitely i will,yesNode,convo
+24,yea i would,yesNode,convo
+25,yeah i would,yesNode,convo
+26,sure i would,yesNode,convo
+27,oh absolutely i would,yesNode,convo
+28,oh yes i did,yesNode,convo
+29,oh yea i did,yesNode,convo
+30,sure i did,yesNode,convo
+31,oh sure i did,yesNode,convo
+32,oh alright i did,yesNode,convo
+33,absolutely i did,yesNode,convo
+34,yes i had,yesNode,convo
+35,oh yes i had,yesNode,convo
+36,oh yea i had,yesNode,convo
+37,sure i had,yesNode,convo
+38,alright i had,yesNode,convo
+39,absolutely i had,yesNode,convo
+40,yeah indeed,yesNode,convo
+41,sure indeed,yesNode,convo
+42,oh sure indeed,yesNode,convo
+43,yeah absolutely,yesNode,convo
+44,all right absolutely,yesNode,convo
+45,yeah definitely,yesNode,convo
+46,oh alright definitely,yesNode,convo
+47,absolutely definitely,yesNode,convo
+48,yeah i think,yesNode,convo
+49,alright i think,yesNode,convo
+50,oh definitely i think,yesNode,convo
+51,of course i will,yesNode,convo
+52,of course i did,yesNode,convo
+53,i think i do,yesNode,convo
+54,i think i will,yesNode,convo
+55,i think i did,yesNode,convo
+56,i think i would,yesNode,convo
+57,definitely agree,yesNode,convo
+58,probably yes,yesNode,convo
+59,probably yea,yesNode,convo
+60,okey,yesNode,convo
+61,ok,yesNode,convo
+62,o. k.,yesNode,convo
+63,that sounds like a good idea,yesNode,convo
+64,it sounds like a good idea,yesNode,convo
+65,it sounds good to me,yesNode,convo
+66,it sounds like a good idea to me,yesNode,convo
+67,i do,yesNode,convo
+68,i will,yesNode,convo
+69,yep,yesNode,convo
+70,yup,yesNode,convo
+71,i can't see why not,yesNode,convo
+72,can't wait,yesNode,convo
+73,yes please,yesNode,convo
+74,true,yesNode,convo
+75,oh yes kind of,yesNode,convo
+76,oh yea kind of,yesNode,convo
+77,kind of,yesNode,convo
+78,yes sort of,yesNode,convo
+79,oh yes sort of,yesNode,convo
+80,yeah sort of,yesNode,convo
+81,oh yeah sort of,yesNode,convo
+82,very much,yesNode,convo
+83,yes i guess so,yesNode,convo
+84,yea i guess so,yesNode,convo
+85,i guess so,yesNode,convo
+86,yea exactly,yesNode,convo
+87,oh yeah probably,yesNode,convo
+88,yea quite,yesNode,convo
+89,quite a lot,yesNode,convo
+90,oh yea i am sometimes,yesNode,convo
+91,yes i do sometimes,yesNode,convo
+92,oh yes i do sometimes,yesNode,convo
+93,oh  i do sometimes,yesNode,convo
+94,yeah i have sometimes,yesNode,convo
+95,oh  i have sometimes,yesNode,convo
+96,oh yes i would sometimes,yesNode,convo
+97,oh yea i would sometimes,yesNode,convo
+98,oh yeah i would sometimes,yesNode,convo
+99,yea i will sometimes,yesNode,convo
+100,oh yea i will sometimes,yesNode,convo
+101,yeah i will sometimes,yesNode,convo
+102,oh yea i did sometimes,yesNode,convo
+103,yeah i did sometimes,yesNode,convo
+104,oh yea i had sometimes,yesNode,convo
+105,oh yeah  from time to time,yesNode,convo
+106,yes i am from time to time,yesNode,convo
+107,i am from time to time,yesNode,convo
+108,oh yes i do from time to time,yesNode,convo
+109,oh yea i do from time to time,yesNode,convo
+110,yeah i do from time to time,yesNode,convo
+111,oh yes i have from time to time,yesNode,convo
+112,yea i have from time to time,yesNode,convo
+113,yeah i would from time to time,yesNode,convo
+114,oh yeah i would from time to time,yesNode,convo
+115,i would from time to time,yesNode,convo
+116,oh  i would from time to time,yesNode,convo
+117,oh yes i will from time to time,yesNode,convo
+118,yeah i will from time to time,yesNode,convo
+119,i will from time to time,yesNode,convo
+120,yes i did from time to time,yesNode,convo
+121,oh  i did from time to time,yesNode,convo
+122,oh yea i am on some occasions,yesNode,convo
+123,yea i do on some occasions,yesNode,convo
+124,oh yea i do on some occasions,yesNode,convo
+125,oh yeah i do on some occasions,yesNode,convo
+126,yes i have on some occasions,yesNode,convo
+127,yea i have on some occasions,yesNode,convo
+128,yeah i have on some occasions,yesNode,convo
+129,oh yes i would on some occasions,yesNode,convo
+130,oh yeah i would on some occasions,yesNode,convo
+131,yea i did on some occasions,yesNode,convo
+132,oh yeah i did on some occasions,yesNode,convo
+133,go ahead,yesNode,convo
+134,go for it,yesNode,convo
+135,who isn't,yesNode,convo
+136,i would really love that,yesNode,convo
+137,that would be great,yesNode,convo
+138,that would be lovely,yesNode,convo
+139,that would be nice,yesNode,convo
+140,go on,yesNode,convo
+141,no,noNode,convo
+142,oh nah i'm not,noNode,convo
+143,oh nope i am not,noNode,convo
+144,no i don't,noNode,convo
+145,oh no i don't,noNode,convo
+146,nope i do not,noNode,convo
+147,nah i do not,noNode,convo
+148,oh no i haven't,noNode,convo
+149,nah i haven't,noNode,convo
+150,oh nope i wouldn't,noNode,convo
+151,oh no i would not,noNode,convo
+152,oh nope i would not,noNode,convo
+153,oh nah i would not,noNode,convo
+154,oh no i didn't,noNode,convo
+155,oh nope i didn't,noNode,convo
+156,nope i did not,noNode,convo
+157,oh nope i did not,noNode,convo
+158,nah i did not,noNode,convo
+159,oh nah i did not,noNode,convo
+160,oh no i hadn't,noNode,convo
+161,oh no i had not,noNode,convo
+162,oh nope i had not,noNode,convo
+163,nope i guess,noNode,convo
+164,nah i guess,noNode,convo
+165,oh nope i think,noNode,convo
+166,oh no,noNode,convo
+167,nope,noNode,convo
+168,oh nah,noNode,convo
+169,not,noNode,convo
+170,not really,noNode,convo
+171,absolutely not,noNode,convo
+172,false,noNode,convo
+173,negative,noNode,convo
+174,please don't continue,noNode,convo
+175,don't continue,noNode,convo
+176,i have no idea,noNode,convo
+177,probably not,noNode,convo
+178,i think i do not,noNode,convo
+179,i don't think i will,noNode,convo
+180,i don't think i had,noNode,convo
+181,i have not,noNode,convo
+182,i wouldn't,noNode,convo
+183,i won't,noNode,convo
+184,i did not,noNode,convo
+185,that's totally not okay,noNode,convo
+186,that's definitely not okay,noNode,convo
+187,that's absolutely not ok,noNode,convo
+188,that's  not ok,noNode,convo
+189,that's definitely not o.k.,noNode,convo
+190,i don't  want to,noNode,convo
+191,i don't really want to,noNode,convo
+192,not exactly,noNode,convo
+193,that's o.k. alexa,noNode,convo
+194,might,maybeNode,convo
+195,i don't really know,maybeNode,convo
+196,don't  know,maybeNode,convo
+197,not  sure,maybeNode,convo
+198,i do not remember,maybeNode,convo
+199,do not remember,maybeNode,convo
+200,don't remember,maybeNode,convo
+201,i don't  care,maybeNode,convo
+202,that doesn't really matter,maybeNode,convo
+203,doesn't really matter,maybeNode,convo
+204,it's the same for me,maybeNode,convo
+205,quit,stop,convo
+206,close,stop,convo
+207,i want to close,stop,convo
+208,turn  off,stop,convo
+209,leave me be,stop,convo
+210,i've had enough of this,stop,convo
+211,bye,stop,convo
+212,farewell,stop,convo
+213,could you repeat that,Repeat,convo
+214,can you repeat it,Repeat,convo
+215,come again,Repeat,convo
+216,i didn't get that,Repeat,convo
+217,i don't understand,Repeat,convo
+218,what did you say,Repeat,convo
+219,i want to start  more games,playOtherGame,convo
+220,let's start  more games,playOtherGame,convo
+221,play some more games,playOtherGame,convo
+222,start a few more games,playOtherGame,convo
+223,i want to play  other games,playOtherGame,convo
+224,play  other games,playOtherGame,convo
+225,open some other games,playOtherGame,convo
+226,let's start a few other games,playOtherGame,convo
+227,start a few other games,playOtherGame,convo
+228,i want to play another  game,playOtherGame,convo
+229,play another  game,playOtherGame,convo
+230,i want to open another  game,playOtherGame,convo
+231,let's open another  game,playOtherGame,convo
+232,i want to play a different  game,playOtherGame,convo
+233,let's play a different  game,playOtherGame,convo
+234,let's play one more  game,playOtherGame,convo
+235,i want to play another memory game,playOtherGame,convo
+236,let's open another memory game,playOtherGame,convo
+237,i want to start another memory game,playOtherGame,convo
+238,i want to play a different memory game,playOtherGame,convo
+239,let's start a different memory game,playOtherGame,convo
+240,i want to play one more memory game,playOtherGame,convo
+241,let's play one more memory game,playOtherGame,convo
+242,play one more memory game,playOtherGame,convo
+243,i want to open one more memory game,playOtherGame,convo
+244,start one more memory game,playOtherGame,convo
+245,i don't want to turn you off just yet,playOtherGame,convo
+246,please don't turn off  yet,playOtherGame,convo
+247,i hate this game,playOtherGame,convo
+248,this game  sucks,playOtherGame,convo
+249,stop this game,playOtherGame,convo
+250,shut up,totalStop,convo
+251,wait a minute,wait,convo
+252,wait a second please,wait,convo
+253,pause,wait,convo
+254,what  game can i play,listOfGames,convo
+255,what else can i play,listOfGames,convo
+256,what can i play,listOfGames,convo
+257,what other game can we play,listOfGames,convo
+258,what  games can you play,listOfGames,convo
+259,which other game can you play,listOfGames,convo
+260,what other game can you play,listOfGames,convo
+261,what can you play,listOfGames,convo
+262,which other games do you know,listOfGames,convo
+263,which other game do you know,listOfGames,convo
+264,what do you know,listOfGames,convo
+265,what  games is available,listOfGames,convo
+266,which other games is available,listOfGames,convo
+267,which  game is available,listOfGames,convo
+268,what other game is available,listOfGames,convo
+269,what other game are available,listOfGames,convo
+270,how many  games have i played,gamesCounter,convo
+271,how many  games have we played so far,gamesCounter,convo
+272,how many  games have i played in this session,gamesCounter,convo
+273,could you speak louder,volumeUp,convo
+274,can you speak louder,volumeUp,convo
+275,will you speak louder,volumeUp,convo
+276,you speak louder,volumeUp,convo
+277,can  speak louder,volumeUp,convo
+278,you talk louder,volumeUp,convo
+279,can you speak more loud,volumeUp,convo
+280,will you speak more loud,volumeUp,convo
+281,will  speak more loud,volumeUp,convo
+282,will you talk more loud,volumeUp,convo
+283,you talk more loud,volumeUp,convo
+284,would you speak higher,volumeUp,convo
+285,you speak higher,volumeUp,convo
+286,could  speak higher,volumeUp,convo
+287,would  speak higher,volumeUp,convo
+288,could you talk higher,volumeUp,convo
+289,will  talk higher,volumeUp,convo
+290,i can't hear you,volumeUp,convo
+291,you are speaking too quiet,volumeUp,convo
+292,you speak quiet,volumeDown,convo
+293,will  speak quiet,volumeDown,convo
+294,would you talk quiet,volumeDown,convo
+295,could  talk quiet,volumeDown,convo
+296,would  talk quiet,volumeDown,convo
+297,will  speak more quiet,volumeDown,convo
+298,would  speak more quiet,volumeDown,convo
+299,will you talk more quiet,volumeDown,convo
+300,you talk more quiet,volumeDown,convo
+301,would  talk more quiet,volumeDown,convo
+302,could you speak less loud,volumeDown,convo
+303,would you speak less loud,volumeDown,convo
+304,could you talk less loud,volumeDown,convo
+305,would you talk less loud,volumeDown,convo
+306,you talk less loud,volumeDown,convo
+307,would you speak quieter,volumeDown,convo
+308,can  speak quieter,volumeDown,convo
+309,would  speak quieter,volumeDown,convo
+310,could you talk quieter,volumeDown,convo
+311,will  talk quieter,volumeDown,convo
+312,will you speak silently,volumeDown,convo
+313,could  speak silently,volumeDown,convo
+314,can  speak silently,volumeDown,convo
+315,speak silently,volumeDown,convo
+316,would you talk silently,volumeDown,convo
+317,will  talk silently,volumeDown,convo
+318,will you speak down,volumeDown,convo
+319,you talk down,volumeDown,convo
+320,will  talk down,volumeDown,convo
+321,would  talk down,volumeDown,convo
+322,talk down,volumeDown,convo
+323,how many times have i opened you already,timesPlayed,convo
+324,how many times have we chatted so far,timesPlayed,convo
+325,how many times have i launched you so far,timesPlayed,convo
+326,how many times have i started you so far,timesPlayed,convo
+327,how many times have i talked to you so far,timesPlayed,convo
+328,are you  there,stillThere,convo
+329,did you turn off,stillThere,convo
+330,yes,yesNode,convo
+331,yea,yesNode,convo
+332,ok,yesNode,convo
+333,oh yes,yesNode,convo
+334,yea,yesNode,convo
+335,oh yea,yesNode,convo
+336,yeah,yesNode,convo
+337,sure,yesNode,convo
+338,oh sure,yesNode,convo
+339,oh alright,yesNode,convo
+340,all right,yesNode,convo
+341,oh all right,yesNode,convo
+342,oh definitely,yesNode,convo
+343,oh yes i am,yesNode,convo
+344,yea i am,yesNode,convo
+345,oh yea i am,yesNode,convo
+346,yeah i am,yesNode,convo
+347,oh yeah i am,yesNode,convo
+348,sure i am,yesNode,convo
+349,alright i am,yesNode,convo
+350,oh alright i am,yesNode,convo
+351,all right i am,yesNode,convo
+352,absolutely i am,yesNode,convo
+353,definitely i am,yesNode,convo
+354,oh yes i do,yesNode,convo
+355,yea i do,yesNode,convo
+356,oh yea i do,yesNode,convo
+357,yeah i do,yesNode,convo
+358,oh sure i do,yesNode,convo
+359,oh alright i do,yesNode,convo
+360,all right i do,yesNode,convo
+361,absolutely i do,yesNode,convo
+362,oh absolutely i do,yesNode,convo
+363,definitely i do,yesNode,convo
+364,yes i have,yesNode,convo
+365,oh yes i have,yesNode,convo
+366,oh yea i have,yesNode,convo
+367,yeah i have,yesNode,convo
+368,oh yeah i have,yesNode,convo
+369,sure i have,yesNode,convo
+370,alright i have,yesNode,convo
+371,oh alright i have,yesNode,convo
+372,all right i have,yesNode,convo
+373,oh all right i have,yesNode,convo
+374,absolutely i have,yesNode,convo
+375,oh absolutely i have,yesNode,convo
+376,definitely i have,yesNode,convo
+377,oh definitely i have,yesNode,convo
+378,yes i will,yesNode,convo
+379,yea i will,yesNode,convo
+380,oh yea i will,yesNode,convo
+381,yeah i will,yesNode,convo
+382,oh yeah i will,yesNode,convo
+383,sure i will,yesNode,convo
+384,alright i will,yesNode,convo
+385,oh alright i will,yesNode,convo
+386,all right i will,yesNode,convo
+387,oh absolutely i will,yesNode,convo
+388,definitely i will,yesNode,convo
+389,yes i would,yesNode,convo
+390,oh yes i would,yesNode,convo
+391,oh yea i would,yesNode,convo
+392,oh yeah i would,yesNode,convo
+393,oh sure i would,yesNode,convo
+394,alright i would,yesNode,convo
+395,oh alright i would,yesNode,convo
+396,all right i would,yesNode,convo
+397,oh all right i would,yesNode,convo
+398,absolutely i would,yesNode,convo
+399,definitely i would,yesNode,convo
+400,oh definitely i would,yesNode,convo
+401,yes i did,yesNode,convo
+402,yea i did,yesNode,convo
+403,yeah i did,yesNode,convo
+404,oh yeah i did,yesNode,convo
+405,alright i did,yesNode,convo
+406,all right i did,yesNode,convo
+407,oh all right i did,yesNode,convo
+408,oh absolutely i did,yesNode,convo
+409,definitely i did,yesNode,convo
+410,oh definitely i did,yesNode,convo
+411,yea i had,yesNode,convo
+412,yeah i had,yesNode,convo
+413,oh yeah i had,yesNode,convo
+414,oh sure i had,yesNode,convo
+415,oh alright i had,yesNode,convo
+416,all right i had,yesNode,convo
+417,oh all right i had,yesNode,convo
+418,oh absolutely i had,yesNode,convo
+419,definitely i had,yesNode,convo
+420,oh definitely i had,yesNode,convo
+421,yes indeed,yesNode,convo
+422,oh yes indeed,yesNode,convo
+423,yea indeed,yesNode,convo
+424,oh yea indeed,yesNode,convo
+425,oh yeah indeed,yesNode,convo
+426,alright indeed,yesNode,convo
+427,oh alright indeed,yesNode,convo
+428,all right indeed,yesNode,convo
+429,oh all right indeed,yesNode,convo
+430,absolutely indeed,yesNode,convo
+431,oh absolutely indeed,yesNode,convo
+432,definitely indeed,yesNode,convo
+433,oh definitely indeed,yesNode,convo
+434,yes absolutely,yesNode,convo
+435,oh yes absolutely,yesNode,convo
+436,yea absolutely,yesNode,convo
+437,oh yea absolutely,yesNode,convo
+438,oh yeah absolutely,yesNode,convo
+439,sure absolutely,yesNode,convo
+440,oh sure absolutely,yesNode,convo
+441,alright absolutely,yesNode,convo
+442,oh alright absolutely,yesNode,convo
+443,oh all right absolutely,yesNode,convo
+444,absolutely absolutely,yesNode,convo
+445,oh absolutely absolutely,yesNode,convo
+446,definitely absolutely,yesNode,convo
+447,oh definitely absolutely,yesNode,convo
+448,yes definitely,yesNode,convo
+449,oh yes definitely,yesNode,convo
+450,yea definitely,yesNode,convo
+451,oh yea definitely,yesNode,convo
+452,oh yeah definitely,yesNode,convo
+453,sure definitely,yesNode,convo
+454,oh sure definitely,yesNode,convo
+455,alright definitely,yesNode,convo
+456,all right definitely,yesNode,convo
+457,oh all right definitely,yesNode,convo
+458,oh absolutely definitely,yesNode,convo
+459,definitely definitely,yesNode,convo
+460,oh definitely definitely,yesNode,convo
+461,yes i think,yesNode,convo
+462,oh yes i think,yesNode,convo
+463,yea i think,yesNode,convo
+464,oh yea i think,yesNode,convo
+465,oh yeah i think,yesNode,convo
+466,sure i think,yesNode,convo
+467,oh sure i think,yesNode,convo
+468,oh alright i think,yesNode,convo
+469,all right i think,yesNode,convo
+470,oh all right i think,yesNode,convo
+471,absolutely i think,yesNode,convo
+472,oh absolutely i think,yesNode,convo
+473,definitely i think,yesNode,convo
+474,of course,yesNode,convo
+475,of course i am,yesNode,convo
+476,of course i do,yesNode,convo
+477,of course i have,yesNode,convo
+478,of course i had,yesNode,convo
+479,of course i would,yesNode,convo
+480,i think so,yesNode,convo
+481,i think i am,yesNode,convo
+482,i think i have,yesNode,convo
+483,i think i had,yesNode,convo
+484,i  agree,yesNode,convo
+485,agree,yesNode,convo
+486,i totally agree,yesNode,convo
+487,totally agree,yesNode,convo
+488,i absolutely agree,yesNode,convo
+489,absolutely agree,yesNode,convo
+490,i definitely agree,yesNode,convo
+491,positive,yesNode,convo
+492,agreed,yesNode,convo
+493,probably yeah,yesNode,convo
+494,ok,yesNode,convo
+495,okay,yesNode,convo
+496,sounds good,yesNode,convo
+497,that sounds good,yesNode,convo
+498,it sounds good,yesNode,convo
+499,sounds like a good idea,yesNode,convo
+500,sounds good to me,yesNode,convo
+501,that sounds good to me,yesNode,convo
+502,sounds like a good idea to me,yesNode,convo
+503,that sounds like a good idea to me,yesNode,convo
+504,that's a good idea,yesNode,convo
+505,that's a great idea,yesNode,convo
+506,i am,yesNode,convo
+507,i have,yesNode,convo
+508,i would,yesNode,convo
+509,i did,yesNode,convo
+510,i had,yesNode,convo
+511,indeed,yesNode,convo
+512,why not,yesNode,convo
+513,i can't wait,yesNode,convo
+514,please,yesNode,convo
+515,yes please do,yesNode,convo
+516,please do,yesNode,convo
+517,yes please do it,yesNode,convo
+518,please do it,yesNode,convo
+519,let's go,yesNode,convo
+520,let's go for it,yesNode,convo
+521,for sure,yesNode,convo
+522,that's true,yesNode,convo
+523,right,yesNode,convo
+524,that's right,yesNode,convo
+525,correct,yesNode,convo
+526,that's correct,yesNode,convo
+527,let's try,yesNode,convo
+528,let's try it,yesNode,convo
+529,let's do it,yesNode,convo
+530,let's do that,yesNode,convo
+531,yes kind of,yesNode,convo
+532,yea kind of,yesNode,convo
+533,yeah kind of,yesNode,convo
+534,oh yeah kind of,yesNode,convo
+535,oh  kind of,yesNode,convo
+536,yes kinda,yesNode,convo
+537,oh yes kinda,yesNode,convo
+538,yea kinda,yesNode,convo
+539,oh yea kinda,yesNode,convo
+540,yeah kinda,yesNode,convo
+541,oh yeah kinda,yesNode,convo
+542,kinda,yesNode,convo
+543,oh  kinda,yesNode,convo
+544,yea sort of,yesNode,convo
+545,oh yea sort of,yesNode,convo
+546,sort of,yesNode,convo
+547,oh  sort of,yesNode,convo
+548,yes very much,yesNode,convo
+549,oh yes very much,yesNode,convo
+550,yea very much,yesNode,convo
+551,oh yea very much,yesNode,convo
+552,yeah very much,yesNode,convo
+553,oh yeah very much,yesNode,convo
+554,oh  very much,yesNode,convo
+555,yes i guess,yesNode,convo
+556,oh yes i guess,yesNode,convo
+557,yea i guess,yesNode,convo
+558,oh yea i guess,yesNode,convo
+559,yeah i guess,yesNode,convo
+560,oh yeah i guess,yesNode,convo
+561,i guess,yesNode,convo
+562,oh  i guess,yesNode,convo
+563,oh yes i guess so,yesNode,convo
+564,oh yea i guess so,yesNode,convo
+565,yeah i guess so,yesNode,convo
+566,oh yeah i guess so,yesNode,convo
+567,oh  i guess so,yesNode,convo
+568,yes exactly,yesNode,convo
+569,oh yes exactly,yesNode,convo
+570,oh yea exactly,yesNode,convo
+571,yeah exactly,yesNode,convo
+572,oh yeah exactly,yesNode,convo
+573,exactly,yesNode,convo
+574,oh  exactly,yesNode,convo
+575,yes probably,yesNode,convo
+576,oh yes probably,yesNode,convo
+577,yea probably,yesNode,convo
+578,oh yea probably,yesNode,convo
+579,yeah probably,yesNode,convo
+580,probably,yesNode,convo
+581,oh  probably,yesNode,convo
+582,yes quite,yesNode,convo
+583,oh yes quite,yesNode,convo
+584,oh yea quite,yesNode,convo
+585,yeah quite,yesNode,convo
+586,oh yeah quite,yesNode,convo
+587,quite,yesNode,convo
+588,oh  quite,yesNode,convo
+589,yes quite a lot,yesNode,convo
+590,oh yes quite a lot,yesNode,convo
+591,yea quite a lot,yesNode,convo
+592,oh yea quite a lot,yesNode,convo
+593,yeah quite a lot,yesNode,convo
+594,oh yeah quite a lot,yesNode,convo
+595,oh  quite a lot,yesNode,convo
+596,yes  sometimes,yesNode,convo
+597,oh yes  sometimes,yesNode,convo
+598,yea  sometimes,yesNode,convo
+599,oh yea  sometimes,yesNode,convo
+600,yeah  sometimes,yesNode,convo
+601,oh yeah  sometimes,yesNode,convo
+602,sometimes,yesNode,convo
+603,oh   sometimes,yesNode,convo
+604,yes i am sometimes,yesNode,convo
+605,oh yes i am sometimes,yesNode,convo
+606,yea i am sometimes,yesNode,convo
+607,yeah i am sometimes,yesNode,convo
+608,oh yeah i am sometimes,yesNode,convo
+609,i am sometimes,yesNode,convo
+610,oh  i am sometimes,yesNode,convo
+611,yea i do sometimes,yesNode,convo
+612,oh yea i do sometimes,yesNode,convo
+613,yeah i do sometimes,yesNode,convo
+614,oh yeah i do sometimes,yesNode,convo
+615,i do sometimes,yesNode,convo
+616,yes i have sometimes,yesNode,convo
+617,oh yes i have sometimes,yesNode,convo
+618,yea i have sometimes,yesNode,convo
+619,oh yea i have sometimes,yesNode,convo
+620,oh yeah i have sometimes,yesNode,convo
+621,i have sometimes,yesNode,convo
+622,yes i would sometimes,yesNode,convo
+623,yea i would sometimes,yesNode,convo
+624,yeah i would sometimes,yesNode,convo
+625,i would sometimes,yesNode,convo
+626,oh  i would sometimes,yesNode,convo
+627,yes i will sometimes,yesNode,convo
+628,oh yes i will sometimes,yesNode,convo
+629,oh yeah i will sometimes,yesNode,convo
+630,i will sometimes,yesNode,convo
+631,oh  i will sometimes,yesNode,convo
+632,yes i did sometimes,yesNode,convo
+633,oh yes i did sometimes,yesNode,convo
+634,yea i did sometimes,yesNode,convo
+635,oh yeah i did sometimes,yesNode,convo
+636,i did sometimes,yesNode,convo
+637,oh  i did sometimes,yesNode,convo
+638,yes i had sometimes,yesNode,convo
+639,oh yes i had sometimes,yesNode,convo
+640,yea i had sometimes,yesNode,convo
+641,yeah i had sometimes,yesNode,convo
+642,oh yeah i had sometimes,yesNode,convo
+643,i had sometimes,yesNode,convo
+644,oh  i had sometimes,yesNode,convo
+645,yes  from time to time,yesNode,convo
+646,oh yes  from time to time,yesNode,convo
+647,yea  from time to time,yesNode,convo
+648,oh yea  from time to time,yesNode,convo
+649,yeah  from time to time,yesNode,convo
+650,from time to time,yesNode,convo
+651,oh   from time to time,yesNode,convo
+652,oh yes i am from time to time,yesNode,convo
+653,yea i am from time to time,yesNode,convo
+654,oh yea i am from time to time,yesNode,convo
+655,yeah i am from time to time,yesNode,convo
+656,oh yeah i am from time to time,yesNode,convo
+657,oh  i am from time to time,yesNode,convo
+658,yes i do from time to time,yesNode,convo
+659,yea i do from time to time,yesNode,convo
+660,oh yeah i do from time to time,yesNode,convo
+661,i do from time to time,yesNode,convo
+662,oh  i do from time to time,yesNode,convo
+663,yes i have from time to time,yesNode,convo
+664,oh yea i have from time to time,yesNode,convo
+665,yeah i have from time to time,yesNode,convo
+666,oh yeah i have from time to time,yesNode,convo
+667,i have from time to time,yesNode,convo
+668,oh  i have from time to time,yesNode,convo
+669,yes i would from time to time,yesNode,convo
+670,oh yes i would from time to time,yesNode,convo
+671,yea i would from time to time,yesNode,convo
+672,oh yea i would from time to time,yesNode,convo
+673,yes i will from time to time,yesNode,convo
+674,yea i will from time to time,yesNode,convo
+675,oh yea i will from time to time,yesNode,convo
+676,oh yeah i will from time to time,yesNode,convo
+677,oh  i will from time to time,yesNode,convo
+678,oh yes i did from time to time,yesNode,convo
+679,yea i did from time to time,yesNode,convo
+680,oh yea i did from time to time,yesNode,convo
+681,yeah i did from time to time,yesNode,convo
+682,oh yeah i did from time to time,yesNode,convo
+683,i did from time to time,yesNode,convo
+684,yes i had from time to time,yesNode,convo
+685,oh yes i had from time to time,yesNode,convo
+686,yea i had from time to time,yesNode,convo
+687,oh yea i had from time to time,yesNode,convo
+688,yeah i had from time to time,yesNode,convo
+689,oh yeah i had from time to time,yesNode,convo
+690,i had from time to time,yesNode,convo
+691,oh  i had from time to time,yesNode,convo
+692,yes  on some occasions,yesNode,convo
+693,oh yes  on some occasions,yesNode,convo
+694,yea  on some occasions,yesNode,convo
+695,oh yea  on some occasions,yesNode,convo
+696,yeah  on some occasions,yesNode,convo
+697,oh yeah  on some occasions,yesNode,convo
+698,on some occasions,yesNode,convo
+699,oh   on some occasions,yesNode,convo
+700,yes i am on some occasions,yesNode,convo
+701,oh yes i am on some occasions,yesNode,convo
+702,yea i am on some occasions,yesNode,convo
+703,yeah i am on some occasions,yesNode,convo
+704,oh yeah i am on some occasions,yesNode,convo
+705,i am on some occasions,yesNode,convo
+706,oh  i am on some occasions,yesNode,convo
+707,yes i do on some occasions,yesNode,convo
+708,oh yes i do on some occasions,yesNode,convo
+709,yeah i do on some occasions,yesNode,convo
+710,i do on some occasions,yesNode,convo
+711,oh  i do on some occasions,yesNode,convo
+712,oh yes i have on some occasions,yesNode,convo
+713,oh yea i have on some occasions,yesNode,convo
+714,oh yeah i have on some occasions,yesNode,convo
+715,i have on some occasions,yesNode,convo
+716,oh  i have on some occasions,yesNode,convo
+717,yes i would on some occasions,yesNode,convo
+718,yea i would on some occasions,yesNode,convo
+719,oh yea i would on some occasions,yesNode,convo
+720,yeah i would on some occasions,yesNode,convo
+721,i would on some occasions,yesNode,convo
+722,oh  i would on some occasions,yesNode,convo
+723,yes i will on some occasions,yesNode,convo
+724,oh yes i will on some occasions,yesNode,convo
+725,yea i will on some occasions,yesNode,convo
+726,oh yea i will on some occasions,yesNode,convo
+727,yeah i will on some occasions,yesNode,convo
+728,oh yeah i will on some occasions,yesNode,convo
+729,i will on some occasions,yesNode,convo
+730,oh  i will on some occasions,yesNode,convo
+731,yes i did on some occasions,yesNode,convo
+732,oh yes i did on some occasions,yesNode,convo
+733,oh yea i did on some occasions,yesNode,convo
+734,yeah i did on some occasions,yesNode,convo
+735,i did on some occasions,yesNode,convo
+736,oh  i did on some occasions,yesNode,convo
+737,yes i had on some occasions,yesNode,convo
+738,oh yes i had on some occasions,yesNode,convo
+739,yea i had on some occasions,yesNode,convo
+740,oh yea i had on some occasions,yesNode,convo
+741,yeah i had on some occasions,yesNode,convo
+742,oh yeah i had on some occasions,yesNode,convo
+743,i had on some occasions,yesNode,convo
+744,oh  i had on some occasions,yesNode,convo
+745,who doesn't,yesNode,convo
+746,who wouldn't,yesNode,convo
+747,who hasn't,yesNode,convo
+748,you bet,yesNode,convo
+749,i would  love that,yesNode,convo
+750,please don't stop,yesNode,convo
+751,don't stop,yesNode,convo
+752,nope,noNode,convo
+753,never,noNode,convo
+754,no i'm not,noNode,convo
+755,oh no i'm not,noNode,convo
+756,nope i'm not,noNode,convo
+757,oh nope i'm not,noNode,convo
+758,nah i'm not,noNode,convo
+759,no i am not,noNode,convo
+760,oh no i am not,noNode,convo
+761,nope i am not,noNode,convo
+762,nah i am not,noNode,convo
+763,oh nah i am not,noNode,convo
+764,nope i don't,noNode,convo
+765,oh nope i don't,noNode,convo
+766,nah i don't,noNode,convo
+767,oh nah i don't,noNode,convo
+768,no i do not,noNode,convo
+769,oh no i do not,noNode,convo
+770,oh nope i do not,noNode,convo
+771,oh nah i do not,noNode,convo
+772,no i haven't,noNode,convo
+773,nope i haven't,noNode,convo
+774,oh nope i haven't,noNode,convo
+775,oh nah i haven't,noNode,convo
+776,no i have not,noNode,convo
+777,oh no i have not,noNode,convo
+778,nope i have not,noNode,convo
+779,oh nope i have not,noNode,convo
+780,nah i have not,noNode,convo
+781,oh nah i have not,noNode,convo
+782,no i wouldn't,noNode,convo
+783,oh no i wouldn't,noNode,convo
+784,nope i wouldn't,noNode,convo
+785,nah i wouldn't,noNode,convo
+786,oh nah i wouldn't,noNode,convo
+787,no i would not,noNode,convo
+788,nope i would not,noNode,convo
+789,nah i would not,noNode,convo
+790,no i won't,noNode,convo
+791,oh no i won't,noNode,convo
+792,nope i won't,noNode,convo
+793,oh nope i won't,noNode,convo
+794,nah i won't,noNode,convo
+795,oh nah i won't,noNode,convo
+796,no i will not,noNode,convo
+797,oh no i will not,noNode,convo
+798,nope i will not,noNode,convo
+799,oh nope i will not,noNode,convo
+800,nah i will not,noNode,convo
+801,oh nah i will not,noNode,convo
+802,no i didn't,noNode,convo
+803,nope i didn't,noNode,convo
+804,nah i didn't,noNode,convo
+805,oh nah i didn't,noNode,convo
+806,no i did not,noNode,convo
+807,oh no i did not,noNode,convo
+808,no i hadn't,noNode,convo
+809,nope i hadn't,noNode,convo
+810,oh nope i hadn't,noNode,convo
+811,nah i hadn't,noNode,convo
+812,oh nah i hadn't,noNode,convo
+813,no i had not,noNode,convo
+814,nope i had not,noNode,convo
+815,nah i had not,noNode,convo
+816,oh nah i had not,noNode,convo
+817,no i guess,noNode,convo
+818,oh no i guess,noNode,convo
+819,oh nope i guess,noNode,convo
+820,oh nah i guess,noNode,convo
+821,no i think,noNode,convo
+822,oh no i think,noNode,convo
+823,nope i think,noNode,convo
+824,nah i think,noNode,convo
+825,oh nah i think,noNode,convo
+826,no,noNode,convo
+827,oh nope,noNode,convo
+828,nah,noNode,convo
+829,probably not,noNode,convo
+830,that's false,noNode,convo
+831,that's negative,noNode,convo
+832,please don't,noNode,convo
+833,don't,noNode,convo
+834,please don,noNode,convo
+835,don,noNode,convo
+836,please don't do it,noNode,convo
+837,don't do it,noNode,convo
+838,please don do it,noNode,convo
+839,don do it,noNode,convo
+840,please don continue,noNode,convo
+841,don continue,noNode,convo
+842,no idea,noNode,convo
+843,definitely not,noNode,convo
+844,probably no,noNode,convo
+845,definitely no,noNode,convo
+846,i think i'm not,noNode,convo
+847,i think i am not,noNode,convo
+848,i think i don't,noNode,convo
+849,i think i haven't,noNode,convo
+850,i think i have not,noNode,convo
+851,i think i wouldn't,noNode,convo
+852,i think i would not,noNode,convo
+853,i think i won't,noNode,convo
+854,i think i will not,noNode,convo
+855,i think i didn't,noNode,convo
+856,i think i did not,noNode,convo
+857,i think i hadn't,noNode,convo
+858,i think i had not,noNode,convo
+859,i don't think so,noNode,convo
+860,i don't think i am,noNode,convo
+861,i don't think i do,noNode,convo
+862,i don't think i have,noNode,convo
+863,i don't think i did,noNode,convo
+864,i don't think i would,noNode,convo
+865,i don't think that's a good idea,noNode,convo
+866,i'm not,noNode,convo
+867,i am not,noNode,convo
+868,i don't,noNode,convo
+869,i do not,noNode,convo
+870,i haven't,noNode,convo
+871,i would not,noNode,convo
+872,i will not,noNode,convo
+873,i didn't,noNode,convo
+874,i hadn't,noNode,convo
+875,i had not,noNode,convo
+876,haven't,noNode,convo
+877,didn't,noNode,convo
+878,none,noNode,convo
+879,neither,noNode,convo
+880,i have no,noNode,convo
+881,i have none,noNode,convo
+882,i have not,noNode,convo
+883,maybe later,noNode,convo
+884,that's  not okay,noNode,convo
+885,that's absolutely not okay,noNode,convo
+886,that's really not okay,noNode,convo
+887,that's  not ok,noNode,convo
+888,that's totally not ok,noNode,convo
+889,that's definitely not ok,noNode,convo
+890,that's really not ok,noNode,convo
+891,that's totally not ok,noNode,convo
+892,that's absolutely not ok,noNode,convo
+893,that's definitely not ok,noNode,convo
+894,that's really not ok,noNode,convo
+895,that's  not o.k.,noNode,convo
+896,that's totally not o.k.,noNode,convo
+897,that's absolutely not o.k.,noNode,convo
+898,that's really not o.k.,noNode,convo
+899,i don't  wanna,noNode,convo
+900,i don't really wanna,noNode,convo
+901,i don't  feel like it,noNode,convo
+902,i don't really feel like it,noNode,convo
+903,not right now,noNode,convo
+904,not  now,noNode,convo
+905,that's okay,noNode,convo
+906,that's ok,noNode,convo
+907,that's ok,noNode,convo
+908,that's o.k.,noNode,convo
+909,that's okay alexa,noNode,convo
+910,that's ok alexa,noNode,convo
+911,that's ok alexa,noNode,convo
+912,maybe,maybeNode,convo
+913,may be,maybeNode,convo
+914,might be,maybeNode,convo
+915,don't really know,maybeNode,convo
+916,do not really know,maybeNode,convo
+917,i do not really know,maybeNode,convo
+918,i don't  know,maybeNode,convo
+919,do not  know,maybeNode,convo
+920,i do not  know,maybeNode,convo
+921,i'm not  sure,maybeNode,convo
+922,i am not  sure,maybeNode,convo
+923,not quite sure,maybeNode,convo
+924,i'm not quite sure,maybeNode,convo
+925,i am not quite sure,maybeNode,convo
+926,possibly,maybeNode,convo
+927,i'm indifferent,maybeNode,convo
+928,i am indifferent,maybeNode,convo
+929,indifferent,maybeNode,convo
+930,i can't remember,maybeNode,convo
+931,can't remember,maybeNode,convo
+932,i cannot remember,maybeNode,convo
+933,cannot remember,maybeNode,convo
+934,i can not remember,maybeNode,convo
+935,can not remember,maybeNode,convo
+936,i don't remember,maybeNode,convo
+937,i don't really care,maybeNode,convo
+938,i think it doesn't  matter,maybeNode,convo
+939,it doesn't  matter,maybeNode,convo
+940,that doesn't  matter,maybeNode,convo
+941,doesn't  matter,maybeNode,convo
+942,i think it doesn't really matter,maybeNode,convo
+943,it doesn't really matter,maybeNode,convo
+944,it's the same,maybeNode,convo
+945,stop,stop,convo
+946,i want to quit,stop,convo
+947,exit,stop,convo
+948,i want to exit,stop,convo
+949,stop,stop,convo
+950,i want to stop,stop,convo
+951,stop it,stop,convo
+952,i want to stop it,stop,convo
+953,i want to turn  off,stop,convo
+954,turn you off,stop,convo
+955,i want to turn you off,stop,convo
+956,don't talk,stop,convo
+957,stop talking,stop,convo
+958,i don't want to play  anymore,stop,convo
+959,i don't want to play any game anymore,stop,convo
+960,i don't want to play,stop,convo
+961,i don't want to play any game,stop,convo
+962,i don't like this game anymore,stop,convo
+963,i'm not enjoying this,stop,convo
+964,i'm not enjoying this game,stop,convo
+965,this is boring,stop,convo
+966,bye bye,stop,convo
+967,goodbye,stop,convo
+968,repeat,Repeat,convo
+969,can you repeat that,Repeat,convo
+970,could you repeat it,Repeat,convo
+971,could you repeat the question,Repeat,convo
+972,can you repeat the question,Repeat,convo
+973,could you repeat that please,Repeat,convo
+974,can you repeat that please,Repeat,convo
+975,could you repeat it please,Repeat,convo
+976,can you repeat it please,Repeat,convo
+977,could you repeat the question please,Repeat,convo
+978,can you repeat the question please,Repeat,convo
+979,once more,Repeat,convo
+980,once more please,Repeat,convo
+981,say that again,Repeat,convo
+982,say that again please,Repeat,convo
+983,what was that,Repeat,convo
+984,what are you saying,Repeat,convo
+985,what,Repeat,convo
+986,i want to play  more games,playOtherGame,convo
+987,let's play  more games,playOtherGame,convo
+988,play  more games,playOtherGame,convo
+989,i want to open  more games,playOtherGame,convo
+990,let's open  more games,playOtherGame,convo
+991,open  more games,playOtherGame,convo
+992,start  more games,playOtherGame,convo
+993,i want to play some more games,playOtherGame,convo
+994,let's play some more games,playOtherGame,convo
+995,i want to open some more games,playOtherGame,convo
+996,let's open some more games,playOtherGame,convo
+997,open some more games,playOtherGame,convo
+998,i want to start some more games,playOtherGame,convo
+999,let's start some more games,playOtherGame,convo
+1000,start some more games,playOtherGame,convo
+1001,i want to play a few more games,playOtherGame,convo
+1002,let's play a few more games,playOtherGame,convo
+1003,play a few more games,playOtherGame,convo
+1004,i want to open a few more games,playOtherGame,convo
+1005,let's open a few more games,playOtherGame,convo
+1006,open a few more games,playOtherGame,convo
+1007,i want to start a few more games,playOtherGame,convo
+1008,let's start a few more games,playOtherGame,convo
+1009,let's play  other games,playOtherGame,convo
+1010,i want to open  other games,playOtherGame,convo
+1011,let's open  other games,playOtherGame,convo
+1012,open  other games,playOtherGame,convo
+1013,i want to start  other games,playOtherGame,convo
+1014,let's start  other games,playOtherGame,convo
+1015,start  other games,playOtherGame,convo
+1016,i want to play some other games,playOtherGame,convo
+1017,let's play some other games,playOtherGame,convo
+1018,play some other games,playOtherGame,convo
+1019,i want to open some other games,playOtherGame,convo
+1020,let's open some other games,playOtherGame,convo
+1021,i want to start some other games,playOtherGame,convo
+1022,let's start some other games,playOtherGame,convo
+1023,start some other games,playOtherGame,convo
+1024,i want to play a few other games,playOtherGame,convo
+1025,let's play a few other games,playOtherGame,convo
+1026,play a few other games,playOtherGame,convo
+1027,i want to open a few other games,playOtherGame,convo
+1028,let's open a few other games,playOtherGame,convo
+1029,open a few other games,playOtherGame,convo
+1030,i want to start a few other games,playOtherGame,convo
+1031,let's play another  game,playOtherGame,convo
+1032,open another  game,playOtherGame,convo
+1033,i want to start another  game,playOtherGame,convo
+1034,let's start another  game,playOtherGame,convo
+1035,start another  game,playOtherGame,convo
+1036,play a different  game,playOtherGame,convo
+1037,i want to open a different  game,playOtherGame,convo
+1038,let's open a different  game,playOtherGame,convo
+1039,open a different  game,playOtherGame,convo
+1040,i want to start a different  game,playOtherGame,convo
+1041,let's start a different  game,playOtherGame,convo
+1042,start a different  game,playOtherGame,convo
+1043,i want to play one more  game,playOtherGame,convo
+1044,play one more  game,playOtherGame,convo
+1045,i want to open one more  game,playOtherGame,convo
+1046,let's open one more  game,playOtherGame,convo
+1047,open one more  game,playOtherGame,convo
+1048,i want to start one more  game,playOtherGame,convo
+1049,let's start one more  game,playOtherGame,convo
+1050,start one more  game,playOtherGame,convo
+1051,let's play another memory game,playOtherGame,convo
+1052,play another memory game,playOtherGame,convo
+1053,i want to open another memory game,playOtherGame,convo
+1054,open another memory game,playOtherGame,convo
+1055,let's start another memory game,playOtherGame,convo
+1056,start another memory game,playOtherGame,convo
+1057,let's play a different memory game,playOtherGame,convo
+1058,play a different memory game,playOtherGame,convo
+1059,i want to open a different memory game,playOtherGame,convo
+1060,let's open a different memory game,playOtherGame,convo
+1061,open a different memory game,playOtherGame,convo
+1062,i want to start a different memory game,playOtherGame,convo
+1063,start a different memory game,playOtherGame,convo
+1064,let's open one more memory game,playOtherGame,convo
+1065,open one more memory game,playOtherGame,convo
+1066,i want to start one more memory game,playOtherGame,convo
+1067,let's start one more memory game,playOtherGame,convo
+1068,i don't want to end  yet,playOtherGame,convo
+1069,i don't want to turn you off  yet,playOtherGame,convo
+1070,i don't want to end just yet,playOtherGame,convo
+1071,don't turn off  yet,playOtherGame,convo
+1072,no don't turn off  yet,playOtherGame,convo
+1073,don't turn off just yet,playOtherGame,convo
+1074,please don't turn off just yet,playOtherGame,convo
+1075,no don't turn off just yet,playOtherGame,convo
+1076,i don't want to play this game,playOtherGame,convo
+1077,i don't wanna play this game,playOtherGame,convo
+1078,i don't like this game,playOtherGame,convo
+1079,this game really sucks,playOtherGame,convo
+1080,stop and shut up,totalStop,convo
+1081,wait,wait,convo
+1082,wait a second,wait,convo
+1083,wait a while,wait,convo
+1084,wait  please,wait,convo
+1085,wait a minute please,wait,convo
+1086,wait a while please,wait,convo
+1087,one moment,wait,convo
+1088,one moment please,wait,convo
+1089,which  games can i play,listOfGames,convo
+1090,what  games can i play,listOfGames,convo
+1091,which other games can i play,listOfGames,convo
+1092,what other games can i play,listOfGames,convo
+1093,which  game can i play,listOfGames,convo
+1094,which other game can i play,listOfGames,convo
+1095,what other game can i play,listOfGames,convo
+1096,which  games can we play,listOfGames,convo
+1097,what  games can we play,listOfGames,convo
+1098,which other games can we play,listOfGames,convo
+1099,what other games can we play,listOfGames,convo
+1100,which  game can we play,listOfGames,convo
+1101,what  game can we play,listOfGames,convo
+1102,which other game can we play,listOfGames,convo
+1103,what else can we play,listOfGames,convo
+1104,what can we play,listOfGames,convo
+1105,which  games can you play,listOfGames,convo
+1106,which other games can you play,listOfGames,convo
+1107,what other games can you play,listOfGames,convo
+1108,which  game can you play,listOfGames,convo
+1109,what  game can you play,listOfGames,convo
+1110,what else can you play,listOfGames,convo
+1111,which  games do you have,listOfGames,convo
+1112,what  games do you have,listOfGames,convo
+1113,which other games do you have,listOfGames,convo
+1114,what other games do you have,listOfGames,convo
+1115,which  game do you have,listOfGames,convo
+1116,what  game do you have,listOfGames,convo
+1117,which other game do you have,listOfGames,convo
+1118,what other game do you have,listOfGames,convo
+1119,what else do you have,listOfGames,convo
+1120,what do you have,listOfGames,convo
+1121,which  games do you know,listOfGames,convo
+1122,what  games do you know,listOfGames,convo
+1123,what other games do you know,listOfGames,convo
+1124,which  game do you know,listOfGames,convo
+1125,what  game do you know,listOfGames,convo
+1126,what other game do you know,listOfGames,convo
+1127,what else do you know,listOfGames,convo
+1128,which  games is available,listOfGames,convo
+1129,what other games is available,listOfGames,convo
+1130,what  game is available,listOfGames,convo
+1131,which other game is available,listOfGames,convo
+1132,which  games are available,listOfGames,convo
+1133,what  games are available,listOfGames,convo
+1134,which other games are available,listOfGames,convo
+1135,what other games are available,listOfGames,convo
+1136,which  game are available,listOfGames,convo
+1137,what  game are available,listOfGames,convo
+1138,which other game are available,listOfGames,convo
+1139,how many  games have we played,gamesCounter,convo
+1140,how many memory games have we played,gamesCounter,convo
+1141,how many memory games have i played,gamesCounter,convo
+1142,how many memory games have we played so far,gamesCounter,convo
+1143,how many  games have i played so far,gamesCounter,convo
+1144,how many memory games have i played so far,gamesCounter,convo
+1145,how many  games have we played in this session,gamesCounter,convo
+1146,how many memory games have we played in this session,gamesCounter,convo
+1147,how many memory games have i played in this session,gamesCounter,convo
+1148,would you speak louder,volumeUp,convo
+1149,could  speak louder,volumeUp,convo
+1150,will  speak louder,volumeUp,convo
+1151,would  speak louder,volumeUp,convo
+1152,speak louder,volumeUp,convo
+1153,could you talk louder,volumeUp,convo
+1154,can you talk louder,volumeUp,convo
+1155,will you talk louder,volumeUp,convo
+1156,would you talk louder,volumeUp,convo
+1157,could  talk louder,volumeUp,convo
+1158,can  talk louder,volumeUp,convo
+1159,will  talk louder,volumeUp,convo
+1160,would  talk louder,volumeUp,convo
+1161,talk louder,volumeUp,convo
+1162,could you speak more loud,volumeUp,convo
+1163,would you speak more loud,volumeUp,convo
+1164,you speak more loud,volumeUp,convo
+1165,could  speak more loud,volumeUp,convo
+1166,can  speak more loud,volumeUp,convo
+1167,would  speak more loud,volumeUp,convo
+1168,speak more loud,volumeUp,convo
+1169,could you talk more loud,volumeUp,convo
+1170,can you talk more loud,volumeUp,convo
+1171,would you talk more loud,volumeUp,convo
+1172,could  talk more loud,volumeUp,convo
+1173,can  talk more loud,volumeUp,convo
+1174,will  talk more loud,volumeUp,convo
+1175,would  talk more loud,volumeUp,convo
+1176,talk more loud,volumeUp,convo
+1177,could you speak higher,volumeUp,convo
+1178,can you speak higher,volumeUp,convo
+1179,will you speak higher,volumeUp,convo
+1180,can  speak higher,volumeUp,convo
+1181,will  speak higher,volumeUp,convo
+1182,speak higher,volumeUp,convo
+1183,can you talk higher,volumeUp,convo
+1184,will you talk higher,volumeUp,convo
+1185,would you talk higher,volumeUp,convo
+1186,you talk higher,volumeUp,convo
+1187,could  talk higher,volumeUp,convo
+1188,can  talk higher,volumeUp,convo
+1189,would  talk higher,volumeUp,convo
+1190,talk higher,volumeUp,convo
+1191,i can't hear you very well,volumeUp,convo
+1192,i can't hear you  well,volumeUp,convo
+1193,i can't hear you very,volumeUp,convo
+1194,you are talking too quiet,volumeUp,convo
+1195,you are  too quiet,volumeUp,convo
+1196,you are speaking too low,volumeUp,convo
+1197,you are talking too low,volumeUp,convo
+1198,you are  too low,volumeUp,convo
+1199,you are speaking too quietly,volumeUp,convo
+1200,you are talking too quietly,volumeUp,convo
+1201,you are  too quietly,volumeUp,convo
+1202,volume up,volumeUp,convo
+1203,could you speak quiet,volumeDown,convo
+1204,can you speak quiet,volumeDown,convo
+1205,will you speak quiet,volumeDown,convo
+1206,would you speak quiet,volumeDown,convo
+1207,could  speak quiet,volumeDown,convo
+1208,can  speak quiet,volumeDown,convo
+1209,would  speak quiet,volumeDown,convo
+1210,speak quiet,volumeDown,convo
+1211,could you talk quiet,volumeDown,convo
+1212,can you talk quiet,volumeDown,convo
+1213,will you talk quiet,volumeDown,convo
+1214,you talk quiet,volumeDown,convo
+1215,can  talk quiet,volumeDown,convo
+1216,will  talk quiet,volumeDown,convo
+1217,talk quiet,volumeDown,convo
+1218,could you speak more quiet,volumeDown,convo
+1219,can you speak more quiet,volumeDown,convo
+1220,will you speak more quiet,volumeDown,convo
+1221,would you speak more quiet,volumeDown,convo
+1222,you speak more quiet,volumeDown,convo
+1223,could  speak more quiet,volumeDown,convo
+1224,can  speak more quiet,volumeDown,convo
+1225,speak more quiet,volumeDown,convo
+1226,could you talk more quiet,volumeDown,convo
+1227,can you talk more quiet,volumeDown,convo
+1228,would you talk more quiet,volumeDown,convo
+1229,could  talk more quiet,volumeDown,convo
+1230,can  talk more quiet,volumeDown,convo
+1231,will  talk more quiet,volumeDown,convo
+1232,talk more quiet,volumeDown,convo
+1233,can you speak less loud,volumeDown,convo
+1234,will you speak less loud,volumeDown,convo
+1235,you speak less loud,volumeDown,convo
+1236,could  speak less loud,volumeDown,convo
+1237,can  speak less loud,volumeDown,convo
+1238,will  speak less loud,volumeDown,convo
+1239,would  speak less loud,volumeDown,convo
+1240,speak less loud,volumeDown,convo
+1241,can you talk less loud,volumeDown,convo
+1242,will you talk less loud,volumeDown,convo
+1243,could  talk less loud,volumeDown,convo
+1244,can  talk less loud,volumeDown,convo
+1245,will  talk less loud,volumeDown,convo
+1246,would  talk less loud,volumeDown,convo
+1247,talk less loud,volumeDown,convo
+1248,could you speak quieter,volumeDown,convo
+1249,can you speak quieter,volumeDown,convo
+1250,will you speak quieter,volumeDown,convo
+1251,you speak quieter,volumeDown,convo
+1252,could  speak quieter,volumeDown,convo
+1253,will  speak quieter,volumeDown,convo
+1254,speak quieter,volumeDown,convo
+1255,can you talk quieter,volumeDown,convo
+1256,will you talk quieter,volumeDown,convo
+1257,would you talk quieter,volumeDown,convo
+1258,you talk quieter,volumeDown,convo
+1259,could  talk quieter,volumeDown,convo
+1260,can  talk quieter,volumeDown,convo
+1261,would  talk quieter,volumeDown,convo
+1262,talk quieter,volumeDown,convo
+1263,could you speak silently,volumeDown,convo
+1264,can you speak silently,volumeDown,convo
+1265,would you speak silently,volumeDown,convo
+1266,you speak silently,volumeDown,convo
+1267,will  speak silently,volumeDown,convo
+1268,would  speak silently,volumeDown,convo
+1269,could you talk silently,volumeDown,convo
+1270,can you talk silently,volumeDown,convo
+1271,will you talk silently,volumeDown,convo
+1272,you talk silently,volumeDown,convo
+1273,could  talk silently,volumeDown,convo
+1274,can  talk silently,volumeDown,convo
+1275,would  talk silently,volumeDown,convo
+1276,talk silently,volumeDown,convo
+1277,could you speak down,volumeDown,convo
+1278,can you speak down,volumeDown,convo
+1279,would you speak down,volumeDown,convo
+1280,you speak down,volumeDown,convo
+1281,could  speak down,volumeDown,convo
+1282,can  speak down,volumeDown,convo
+1283,will  speak down,volumeDown,convo
+1284,would  speak down,volumeDown,convo
+1285,speak down,volumeDown,convo
+1286,could you talk down,volumeDown,convo
+1287,can you talk down,volumeDown,convo
+1288,will you talk down,volumeDown,convo
+1289,would you talk down,volumeDown,convo
+1290,could  talk down,volumeDown,convo
+1291,can  talk down,volumeDown,convo
+1292,keep it down please,volumeDown,convo
+1293,you're  too loud,volumeDown,convo
+1294,you're speaking too loud,volumeDown,convo
+1295,volume down,volumeDown,convo
+1296,how many times have we talked already,timesPlayed,convo
+1297,how many times have we chatted already,timesPlayed,convo
+1298,how many times have we spoken already,timesPlayed,convo
+1299,how many times have i launched you already,timesPlayed,convo
+1300,how many times have i started you already,timesPlayed,convo
+1301,how many times have i talked to you already,timesPlayed,convo
+1302,how many times have we talked so far,timesPlayed,convo
+1303,how many times have we spoken so far,timesPlayed,convo
+1304,how many times have i opened you so far,timesPlayed,convo
+1305,how many times have we talked,timesPlayed,convo
+1306,how many times have we chatted,timesPlayed,convo
+1307,how many times have we spoken,timesPlayed,convo
+1308,how many times have i launched you,timesPlayed,convo
+1309,how many times have i started you,timesPlayed,convo
+1310,how many times have i opened you,timesPlayed,convo
+1311,how many times have i talked to you,timesPlayed,convo
+1312,are you still there,stillThere,convo
+1313,are you sleeping,stillThere,convo
+1314,are you asleep,stillThere,convo
+1315,have you turned off,stillThere,convo
+1316,have you stopped,stillThere,convo
+1317,did you stop,stillThere,convo
+1318,did you quit,stillThere,convo
