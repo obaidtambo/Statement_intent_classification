@@ -5,7 +5,7 @@ Classifing a statement into different categories using DL &amp; NLP.
 
 *   Using different labelled data of various sentences and statements  making a model to predict the meaning or intent of the statement
 
-*   The predicted classification of intent can be used a a ground intent be various AI-Chatbots and applications for checking the general intent of the user and transfer user to the revelant protocol.
+*   The predicted classification of intent can be used  a ground intent be various AI-Chatbots and applications for checking the general intent of the user and transfer user to the revelant protocol.
 
 *   I used avaliable data sets of : 
 
